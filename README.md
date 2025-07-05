@@ -1,2 +1,2 @@
-# 4. calculadora_propinas
+# 4. Calculadora_propinas
 Calculadora de propinas
